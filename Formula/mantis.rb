@@ -1,8 +1,8 @@
 class Mantis < Formula
   desc "Unified security control for macOS network tools"
   homepage "https://github.com/gn9nfg2yzj-cyber/mantis"
-  url "https://github.com/gn9nfg2yzj-cyber/mantis/archive/v2.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/gn9nfg2yzj-cyber/mantis/archive/refs/tags/v2.1.0.tar.gz"
+  sha256 "f5727ae0b205103a9a14629511be6d68dacd6b25b0a91aa93b06e39c2310b092"
   license "MIT"
   version "2.1.0"
 
